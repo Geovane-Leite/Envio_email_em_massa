@@ -4,7 +4,7 @@
 
 Este script foi desenvolvido com o propósito de facilitar o envio de emails em massa, incluindo a capacidade de anexar arquivos aos emails.
 
-## Requisito
+## Pré Requisito
  * Conta de email do Microsofit Office 365
    
 ## Como Usar 
