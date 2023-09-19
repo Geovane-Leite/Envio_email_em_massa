@@ -1,0 +1,39 @@
+Login
+
+email: colaborador1@empresa.com.br
+email_setor: setor@empresa.com.br
+Senha: Sua_Senha*
+_______________________________________________________________________________________________________________
+Diretorios em uso
+
+dir_relatorio_xlsx: C:\Users\colaborador1\pasta_arquivo_xlsx
+dir_arquivos_anexo: C:\Users\colaborador1\pasta_arquivos_anexos
+_______________________________________________________________________________________________________________
+E-mail
+
+assunto_email: Fatura Competência
+
+texto_email : Segue anexo boleto e NF referentes a prestação de serviço.<br><br>
+Atenciosamente,<br><br> |
+
+assinatura_padrao: <span style="color:black;">
+{texto_email}<br><br>
+</span> <span style="color:green;">
+<strong>COLABORADOR</strong><br>
+Contas Médicas<br>
+T. (DDD) 0000-0000/ 0001<br><br>
+<img src="cid:imagem1"><br>
+<a href="https://www.SITE_EMPRESA.coop.br">wwwww.MASCARA_SITE.coop.br</a><br>
+ENDEREÇO<br>
+COMPLEMENTO, CEP 00000-000<br>
+BAIRRO, CIDADE- ESTADO<br>
+T. (DDD) 0000-0000<br><br>
+</span> |
+
+
+para instrução de uso, favor entrar em contato com 
+Geovane Leite.
+
+
+
+            
