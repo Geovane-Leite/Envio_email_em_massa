@@ -20,7 +20,7 @@ assinatura_padrao: <span style="color:black;">
 {texto_email}<br><br>
 </span> <span style="color:green;">
 <strong>COLABORADOR</strong><br>
-Contas Médicas<br>
+Setor<br>
 T. (DDD) 0000-0000/ 0001<br><br>
 <img src="cid:imagem1"><br>
 <a href="https://www.SITE_EMPRESA.coop.br">wwwww.MASCARA_SITE.coop.br</a><br>
